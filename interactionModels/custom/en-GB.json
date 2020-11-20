@@ -1,0 +1,47 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "underwater fact",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "GetNewFactIntent",
+          "slots": [],
+          "samples": [
+            "underwater",
+            "give me some underwater information",
+            "give a underwater fact",
+            "underwater fact",
+            "tell me a underwater fact",
+            "give me a underwater fact",
+            "a fact",
+            "tell me a fact",
+            "give me a fact",
+            "tell me trivia",
+            "give me a space trivia",
+            "give me some information",
+            "tell me something",
+            "give me something"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "2"
+}
